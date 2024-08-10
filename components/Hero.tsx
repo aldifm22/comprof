@@ -13,7 +13,7 @@ const Hero = () => {
       
       Your browser does not support the video tag.
        </video>
-       <p className=' relative container   flex '> 
+       <a className=' relative    flex '> 
          <Button
          type="button" 
          title="3D Design" 
@@ -29,7 +29,7 @@ const Hero = () => {
          title="VR & AR" 
          icon="/play.svg"
          variant="btn_white_text" />
-       </p>
+       </a>
        <video autoPlay muted loop className=' rounded-lg flex-center gap-20 border-gray-30 '>
       <source src="/videos/interior mushola.mp4" type="video/mp4" />
       Your browser does not support the video tag.
