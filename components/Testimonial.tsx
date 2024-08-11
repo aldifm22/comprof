@@ -53,21 +53,21 @@ const testi = () => {
     <section className="2xl:max-container relative flex flex-col py-10 lg:mb-10 lg:py-20 xl:mb-20">
       <div className="hide-scrollbar  flex h-[340px] w-full items-start justify-start gap-8 overflow-x-auto lg:h-[400px] xl:h-[640px]">
         <TestiSite 
-          backgroundImage="bg-bg-img-1"
+          backgroundImage="/img-1.png"
           title="Best Results for my Project Works!!"
           subtitle="Joglo Design for Mugiharjo"
           peopleJoined="PT Mugiharjo"
           
         />
         <TestiSite
-          backgroundImage="bg-bg-img-2"
+          backgroundImage='img-2.png'
           title="Best architecture and great integrator of design and website making"
           subtitle="Port Visualitation for Pelindo"
           peopleJoined="PT TGKI & PT Pelindo"
         />
         
          <TestiSite 
-          backgroundImage="bg-bg-img-1"
+          backgroundImage='bg-bg-img-1'
           title="Great Works and good implementation within the area"
           subtitle="Ibu Tuti From Depo Balekambang"
           peopleJoined="Depo Balekambang & Dinas Pertanian Kota Surakarta"
@@ -87,7 +87,7 @@ const testi = () => {
           </p>
           <Image 
             src="/quote.svg"
-            alt="camp-2"
+            alt="quote-2"
             width={186}
             height={219}
             className="camp-quote"
