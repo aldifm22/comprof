@@ -1,5 +1,5 @@
 import Image from "next/image"
-import logo from "../public/logo lokakita.png"
+import logo from "../public/logoLokakita.png"
 import value from "../public/value.jpg"
 import Button from "./Button";
 
