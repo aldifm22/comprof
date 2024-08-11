@@ -10,7 +10,7 @@ const Navbar = () => {
   <nav className="border-2 flexBetween max-container
     padding-container relative z-30 py-5">
         <Link href='/'>
-        <Image src="/logo lokakita.png" alt="logo" width={80} height
+        <Image src="/logoLokakita.png" alt="logo" width={80} height
         ={29}/>
         </Link>
       
