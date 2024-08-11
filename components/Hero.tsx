@@ -9,7 +9,7 @@ const Hero = () => {
       <div className="overlay"></div>
       <p>
       <video autoPlay  muted loop className=' rounded-lg flex-wrap border-gray-30 '>
-      <source src="/videos/ARTEMAOK.mp4" type="video/mp4" />
+      <source src="/ARTEMAOK.mp4" type="video/mp4" />
       
       Your browser does not support the video tag.
        </video>
@@ -31,7 +31,7 @@ const Hero = () => {
          variant="btn_white_text" />
        </a>
        <video autoPlay muted loop className=' rounded-lg flex-center gap-20 border-gray-30 '>
-      <source src="/videos/interior mushola.mp4" type="video/mp4" />
+      <source src="/interior mushola.mp4" type="video/mp4" />
       Your browser does not support the video tag.
        </video> </p>
       </div>
