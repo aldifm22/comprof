@@ -33,7 +33,7 @@ const Team: React.FC = () => {
   return (
     <div style={styles.container} className='bg-cover relative flex-wrap container'>
       <h2 className='text-black container  bold-52 lg:bold-50 space-x-5 space-y-9'>Our Team</h2>
-      <div style={styles.teamContainer} className=' container flex-col column items-center'>
+      <div style={styles.teamContainer} className='  container  items-center overflow-scroll'>
         {users.map((user, index) => (
           <div key={index} style={styles.card}>
             <img src={user.picture.large} alt={`${user.name.first} ${user.name.last}`} style={styles.avatar} />
