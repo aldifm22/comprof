@@ -1,6 +1,6 @@
 import Image from "next/image"
 import React from "react";
-import logo from "./logo lokakita.png"
+import logo from "./logoLokakita.png"
 import value from "./value.jpg"
 import Button from "./Button" ;
 
