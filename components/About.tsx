@@ -1,6 +1,6 @@
 import Image from "next/image"
-import logo from "../public/logoLokakita.png"
-import value from "../public/value.jpg"
+import logo from "../public/static/images/logoLokakita.png"
+import value from "../public/static/images/value.jpg"
 import Button from "./Button";
 
 export default function AboutUs() {

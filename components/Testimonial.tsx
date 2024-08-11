@@ -2,6 +2,7 @@ import { PEOPLE_URL } from "@/constants";
 import Image from "next/image";
 
 interface testiProps {
+  
   backgroundImage: string;
   title: string;
   subtitle: string;
