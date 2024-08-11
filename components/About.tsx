@@ -20,7 +20,7 @@ export default function AboutUs() {
                         <a className= "font-normal ">Loka.Tech is a consultant company based in urban design, thematic mapping, 3d visualization, urban planning, and providing public education in terms of planning studies
                         </a>
                     
-                        <b>Our visions:</b>
+                        <a className="font-semibold space-x-2 space-y-2">Our visions:</a>
                         <a>
                         <Button
                             type="button" 
